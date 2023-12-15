@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T21:16:11.520Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="oIVUHG3xIK2innt4u7RI" version="22.1.8" type="device">
+<mxfile host="app.diagrams.net" modified="2023-12-15T16:32:40.469Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DTcCghqSIKlPt_KUKtBD" version="22.1.9" type="device">
   <diagram name="A3 Форма 1" id="4UMWuW4LYQygtjcPz86S">
-    <mxGraphModel dx="2482" dy="1480" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1669" dy="1076" grid="1" gridSize="3.937" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <object label="" BlueprintName="Устройство для проверки целостности данных на диске" ProductName="Схема электрическая принципиальная" Material="Материал" Manufacturer="&lt;font style=&quot;font-size: 16px;&quot;&gt;МГТУ им Н.Э. Баумана&lt;br&gt;Группа ИУ6-74Б&lt;/font&gt;" Designer="Коптелев К.А." Checker="Трамов И.Б." Approver="Фамилия И.О." Date="31.12.21" Scale="1:1" id="-3bvXb9xsOaprucixAK7-0">
           <mxCell />
@@ -374,10 +374,10 @@
         <mxCell id="2yg2WQkIoi33CC1LjuKN-234" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontStyle=2;container=0;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
           <mxGeometry x="1008.5500000000001" y="285.5" width="3" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="2yg2WQkIoi33CC1LjuKN-237" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C3&lt;/font&gt;&lt;br&gt;15 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
-          <mxGeometry x="955.12" y="199.83999999999997" width="36.61" height="27.56" as="geometry" />
+        <mxCell id="2yg2WQkIoi33CC1LjuKN-237" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C10&lt;/font&gt;&lt;br&gt;22 пф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
+          <mxGeometry x="955.12" y="199.84" width="40.94" height="27.56" as="geometry" />
         </mxCell>
-        <mxCell id="2yg2WQkIoi33CC1LjuKN-238" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C4&lt;/font&gt;&lt;br&gt;15 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
+        <mxCell id="2yg2WQkIoi33CC1LjuKN-238" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C9&lt;/font&gt;&lt;br&gt;15 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
           <mxGeometry x="952.75" y="299.53" width="42.37" height="27.56" as="geometry" />
         </mxCell>
         <mxCell id="2yg2WQkIoi33CC1LjuKN-239" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ZQ1&lt;/span&gt;&lt;br&gt;8 МГц&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
@@ -1251,7 +1251,7 @@
         <mxCell id="EKMDH8cztS3GwZSEMy-4-116" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;GOSTRUS Type A&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Кнопка сброса&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=2" parent="2yg2WQkIoi33CC1LjuKN-274" vertex="1">
           <mxGeometry x="56.09099999999989" y="94.947" width="35.42" height="32.26" as="geometry" />
         </mxCell>
-        <mxCell id="2yg2WQkIoi33CC1LjuKN-271" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C9&lt;/font&gt;&lt;br&gt;100 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="2yg2WQkIoi33CC1LjuKN-274" vertex="1">
+        <mxCell id="2yg2WQkIoi33CC1LjuKN-271" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C8&lt;/font&gt;&lt;br&gt;100 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="2yg2WQkIoi33CC1LjuKN-274" vertex="1">
           <mxGeometry x="138.44" y="118.12" width="50.54" height="27.56" as="geometry" />
         </mxCell>
         <mxCell id="2yg2WQkIoi33CC1LjuKN-273" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;R1&lt;/font&gt;&lt;br&gt;10 кОм&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="2yg2WQkIoi33CC1LjuKN-274" vertex="1">
@@ -1338,8 +1338,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2yg2WQkIoi33CC1LjuKN-314" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;GOSTRUS Type A&quot;&gt;SB3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
-          <mxGeometry x="105.69000000000005" y="410.00000000000006" width="60" height="30" as="geometry" />
+        <mxCell id="2yg2WQkIoi33CC1LjuKN-314" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;GOSTRUS Type A&quot;&gt;SB3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
+          <mxGeometry x="112.95" y="419.27" width="24.23" height="15.2" as="geometry" />
         </mxCell>
         <mxCell id="2yg2WQkIoi33CC1LjuKN-316" value="" style="endArrow=none;html=1;rounded=0;fontStyle=2" parent="-3bvXb9xsOaprucixAK7-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1470,8 +1470,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2yg2WQkIoi33CC1LjuKN-337" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;GOSTRUS Type A&quot;&gt;SB4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
-          <mxGeometry x="105.69400000000007" y="528.114" width="60" height="30" as="geometry" />
+        <mxCell id="2yg2WQkIoi33CC1LjuKN-337" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;GOSTRUS Type A&quot;&gt;SB4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
+          <mxGeometry x="112.95" y="531.49" width="24.23" height="19.13" as="geometry" />
         </mxCell>
         <mxCell id="2yg2WQkIoi33CC1LjuKN-339" value="" style="endArrow=none;html=1;rounded=0;fontStyle=2" parent="-3bvXb9xsOaprucixAK7-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1538,8 +1538,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2yg2WQkIoi33CC1LjuKN-349" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;GOSTRUS Type A&quot;&gt;SB5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
-          <mxGeometry x="105.69100000000003" y="638.3510000000001" width="60" height="30" as="geometry" />
+        <mxCell id="2yg2WQkIoi33CC1LjuKN-349" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;GOSTRUS Type A&quot;&gt;SB5&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
+          <mxGeometry x="112.95" y="646.96" width="24.23" height="15.19" as="geometry" />
         </mxCell>
         <mxCell id="2yg2WQkIoi33CC1LjuKN-351" value="&lt;div style=&quot;line-height: 100%; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Кнопка следующего алгоритма&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=2;verticalAlign=middle;fontFamily=GOSTRUS Type A;fontSize=16;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
           <mxGeometry x="79.69999999999997" y="379.38000000000005" width="110.24" height="32.26" as="geometry" />
@@ -1707,7 +1707,7 @@
             <mxPoint x="132.64199999999997" y="99.1570000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SCTl32TOM6cdLWIYk865-12" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C9&lt;/font&gt;&lt;br&gt;1 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fontFamily=GOSTRUS Type A;" parent="BzMNHQKirhBpf52Ypm10-2" vertex="1">
+        <mxCell id="SCTl32TOM6cdLWIYk865-12" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C3&lt;/font&gt;&lt;br&gt;1 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=16;fontFamily=GOSTRUS Type A;" parent="BzMNHQKirhBpf52Ypm10-2" vertex="1">
           <mxGeometry x="148.76" y="64.02" width="32.34" height="27.56" as="geometry" />
         </mxCell>
         <mxCell id="SCTl32TOM6cdLWIYk865-13" value="" style="endArrow=none;html=1;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="BzMNHQKirhBpf52Ypm10-2" edge="1">
@@ -2178,7 +2178,7 @@
         <mxCell id="BzMNHQKirhBpf52Ypm10-109" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C7&lt;/font&gt;&lt;br&gt;1 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="BzMNHQKirhBpf52Ypm10-124" vertex="1">
           <mxGeometry x="285.65000000000003" y="87.6" width="35.23" height="27.56" as="geometry" />
         </mxCell>
-        <mxCell id="BzMNHQKirhBpf52Ypm10-110" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C8&lt;/font&gt;&lt;br&gt;1 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="BzMNHQKirhBpf52Ypm10-124" vertex="1">
+        <mxCell id="BzMNHQKirhBpf52Ypm10-110" value="&lt;p style=&quot;line-height: 80%;&quot;&gt;&lt;i&gt;&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;C4&lt;/font&gt;&lt;br&gt;1 мкф&lt;/font&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;fontSize=16;fontFamily=GOSTRUS Type A;" parent="BzMNHQKirhBpf52Ypm10-124" vertex="1">
           <mxGeometry x="281.73" y="184.68" width="33.23" height="27.56" as="geometry" />
         </mxCell>
         <mxCell id="BzMNHQKirhBpf52Ypm10-111" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;GOSTRUS Type A&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;LOGIC&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;container=0;verticalAlign=middle;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="BzMNHQKirhBpf52Ypm10-124" vertex="1">
@@ -2229,7 +2229,7 @@
         <mxCell id="P8ES7WjqaV6lyoGANob9-40" value="" style="group" parent="-3bvXb9xsOaprucixAK7-1" vertex="1" connectable="0">
           <mxGeometry x="212.6" y="-59.06000000000001" width="291.34" height="342.52" as="geometry" />
         </mxCell>
-        <mxCell id="SCTl32TOM6cdLWIYk865-41" value="&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;i&gt;Жидкокристаллический дисплей ST7735R&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="P8ES7WjqaV6lyoGANob9-40" vertex="1">
+        <mxCell id="SCTl32TOM6cdLWIYk865-41" value="&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;i&gt;Жидкокристаллический дисплей ST7735&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="P8ES7WjqaV6lyoGANob9-40" vertex="1">
           <mxGeometry x="75.77972330038604" y="305.90738365968355" width="125.34954230276298" height="36.61261634031648" as="geometry" />
         </mxCell>
         <mxCell id="SCTl32TOM6cdLWIYk865-88" value="&lt;font face=&quot;GOSTRUS Type A&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;i&gt;VCC&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="P8ES7WjqaV6lyoGANob9-40" vertex="1">
@@ -2330,7 +2330,7 @@
         <mxCell id="SCTl32TOM6cdLWIYk865-39" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="P8ES7WjqaV6lyoGANob9-40" vertex="1">
           <mxGeometry x="87.26968134632727" y="27.257195451731675" width="109.57959988461721" height="251.59200469162363" as="geometry" />
         </mxCell>
-        <mxCell id="SCTl32TOM6cdLWIYk865-44" value="&lt;font size=&quot;1&quot; face=&quot;GOSTRUS Type A&quot;&gt;&lt;i style=&quot;font-size: 20px;&quot;&gt;DD4&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="P8ES7WjqaV6lyoGANob9-40" vertex="1">
+        <mxCell id="SCTl32TOM6cdLWIYk865-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;DD4&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=GOSTRUS Type A;fontSize=16;" parent="P8ES7WjqaV6lyoGANob9-40" vertex="1">
           <mxGeometry x="127.78353341536675" width="23.61991375501605" height="18.310957981733083" as="geometry" />
         </mxCell>
         <mxCell id="SCTl32TOM6cdLWIYk865-47" value="&lt;font face=&quot;GOSTRUS Type A&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;i&gt;35&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="P8ES7WjqaV6lyoGANob9-40" vertex="1">
@@ -2643,8 +2643,8 @@
         <mxCell id="Ts8PbtmdLe68FZeY-w5G-62" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;fontStyle=2;container=0;" parent="Ts8PbtmdLe68FZeY-w5G-37" vertex="1">
           <mxGeometry x="137.79100000000017" y="37.664999999999736" width="3" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="Ts8PbtmdLe68FZeY-w5G-63" value="&lt;i style=&quot;border-color: var(--border-color); font-family: &amp;quot;GOSTRUS Type A&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;XS1&lt;/font&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;container=0;" parent="Ts8PbtmdLe68FZeY-w5G-37" vertex="1">
-          <mxGeometry x="31.489999999999952" width="23.62" height="23.62" as="geometry" />
+        <mxCell id="Ts8PbtmdLe68FZeY-w5G-63" value="&lt;i style=&quot;border-color: var(--border-color); font-family: &amp;quot;GOSTRUS Type A&amp;quot;;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;XS1&lt;/font&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;container=0;fontSize=16;fontFamily=GOSTRUS Type A;align=center;verticalAlign=middle;rounded=0;fontStyle=2;" parent="Ts8PbtmdLe68FZeY-w5G-37" vertex="1">
+          <mxGeometry x="31.49" y="3.68" width="27.57" height="27.56" as="geometry" />
         </mxCell>
         <mxCell id="Ts8PbtmdLe68FZeY-w5G-64" value="&lt;i style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-family: &amp;quot;GOSTRUS Type A&amp;quot;; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Разъем&lt;br&gt;питания DS-201&lt;/font&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;align=center;container=0;" parent="Ts8PbtmdLe68FZeY-w5G-37" vertex="1">
           <mxGeometry y="86.65999999999997" width="86.61" height="39.96" as="geometry" />
@@ -2681,54 +2681,51 @@
         <mxCell id="bPn0jD8Gc2zTMocoynbL-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
           <mxGeometry x="479.43800000000005" y="63.18500000000003" width="3" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-0" value="Сокет SD-карты BOB-12941" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" vertex="1" parent="-3bvXb9xsOaprucixAK7-1">
-          <mxGeometry x="248.79" y="371.11000000000007" width="148.09" height="30" as="geometry" />
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-0" value="Сокет SD-карты BOB-12941" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
+          <mxGeometry x="251.67999999999998" y="577.7900000000001" width="148.09" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-1" value="" style="group" vertex="1" connectable="0" parent="-3bvXb9xsOaprucixAK7-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-1" value="" style="group" parent="-3bvXb9xsOaprucixAK7-1" vertex="1" connectable="0">
           <mxGeometry x="265.32" y="397.64" width="120.81" height="180.15" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dLk-QDxJsM_Wj1jFb5Rn-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="dLk-QDxJsM_Wj1jFb5Rn-1" vertex="1">
           <mxGeometry width="119.99999999999999" height="180.15000000000003" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-3" value="CS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" vertex="1" parent="dLk-QDxJsM_Wj1jFb5Rn-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-3" value="CS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" parent="dLk-QDxJsM_Wj1jFb5Rn-1" vertex="1">
           <mxGeometry x="88.5" y="43.51499566599249" width="31.5" height="24.793831262640854" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-5" value="CLK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" vertex="1" parent="dLk-QDxJsM_Wj1jFb5Rn-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-5" value="CLK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" parent="dLk-QDxJsM_Wj1jFb5Rn-1" vertex="1">
           <mxGeometry x="88.5" y="70.8506717711644" width="31.5" height="24.785156024270442" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-7" value="DO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" vertex="1" parent="dLk-QDxJsM_Wj1jFb5Rn-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-7" value="DO" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" parent="dLk-QDxJsM_Wj1jFb5Rn-1" vertex="1">
           <mxGeometry x="89.31" y="95.63582779543485" width="31.5" height="23.9002817104883" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="dLk-QDxJsM_Wj1jFb5Rn-1" source="dLk-QDxJsM_Wj1jFb5Rn-9">
+        <mxCell id="s0E8ewbQ4L9lL1AZZK2S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="dLk-QDxJsM_Wj1jFb5Rn-1" source="dLk-QDxJsM_Wj1jFb5Rn-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="159.8760000000001" y="132.02266926707114" as="targetPoint" />
+            <mxPoint x="163.81300000000005" y="132.02666666666676" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-9" value="GND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" vertex="1" parent="dLk-QDxJsM_Wj1jFb5Rn-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-9" value="GND" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" parent="dLk-QDxJsM_Wj1jFb5Rn-1" vertex="1">
           <mxGeometry x="88.5" y="119.53610950592316" width="31.5" height="25.010712221901183" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-10" value="" style="shape=or;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="dLk-QDxJsM_Wj1jFb5Rn-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-10" value="" style="shape=or;whiteSpace=wrap;html=1;direction=south;" parent="dLk-QDxJsM_Wj1jFb5Rn-1" vertex="1">
           <mxGeometry y="0.011439547879085354" width="120.80999999999999" height="49.521802768605546" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="dLk-QDxJsM_Wj1jFb5Rn-1" source="dLk-QDxJsM_Wj1jFb5Rn-12">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="dLk-QDxJsM_Wj1jFb5Rn-1" source="dLk-QDxJsM_Wj1jFb5Rn-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="163.813" y="157.02515113462098" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-12" value="VCC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" vertex="1" parent="dLk-QDxJsM_Wj1jFb5Rn-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-12" value="VCC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=16;fontFamily=GOSTRUS Type A;" parent="dLk-QDxJsM_Wj1jFb5Rn-1" vertex="1">
           <mxGeometry x="88.497" y="144.5442191563132" width="31.5" height="25.010712221901183" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-13" value="" style="endArrow=none;html=1;rounded=0;fontStyle=2" edge="1" parent="-3bvXb9xsOaprucixAK7-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="425.44" y="537.68" as="sourcePoint" />
-            <mxPoint x="425.44" y="521.68" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-14" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GND&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2;container=0;verticalAlign=middle;fontFamily=GOSTRUS Type A;fontSize=16;" vertex="1" parent="-3bvXb9xsOaprucixAK7-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-14" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;GND&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2;container=0;verticalAlign=middle;fontFamily=GOSTRUS Type A;fontSize=16;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
           <mxGeometry x="429.13700000000006" y="521.537" width="27.56" height="15.97" as="geometry" />
         </mxCell>
-        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-15" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;VCC&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2;container=0;verticalAlign=middle;fontFamily=GOSTRUS Type A;fontSize=16;" vertex="1" parent="-3bvXb9xsOaprucixAK7-1">
+        <mxCell id="dLk-QDxJsM_Wj1jFb5Rn-15" value="&lt;div style=&quot;text-align: center; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;VCC&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontStyle=2;container=0;verticalAlign=middle;fontFamily=GOSTRUS Type A;fontSize=16;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
           <mxGeometry x="429.134" y="546.3740000000001" width="27.56" height="15.97" as="geometry" />
+        </mxCell>
+        <mxCell id="s0E8ewbQ4L9lL1AZZK2S-0" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;i style=&quot;font-size: 16px;&quot;&gt;DD5&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontFamily=GOSTRUS Type A;fontSize=16;" parent="-3bvXb9xsOaprucixAK7-1" vertex="1">
+          <mxGeometry x="313.91053341536673" y="379.377" width="23.61991375501605" height="18.310957981733083" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
